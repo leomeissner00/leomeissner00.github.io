@@ -9,5 +9,3 @@ Projet Graphe
 Projet Opti
 Projet PIM
 Projet Télécom
-
-Changer toutes les images en .jpeg basse qualité
